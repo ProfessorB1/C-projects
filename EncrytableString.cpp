@@ -1,4 +1,3 @@
-//Austin Farias 
 #include <iostream>
 #include <string>
 using namespace std;
