@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Austin Farias 
+
 class Car {
 private:
  int year;
