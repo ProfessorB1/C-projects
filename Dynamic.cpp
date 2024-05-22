@@ -1,4 +1,3 @@
-// Austin Farias
 #include <iostream>
 using namespace std;
 const int MAXNAME = 10;
