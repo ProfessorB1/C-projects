@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-//Austin Farias 
+
 const float DOLLAR_TO_EURO = 1.06;
 const float DOLLAR_TO_PESO = 9.73;
 const float DOLLAR_TO_YEN = 124.35;
