@@ -1,8 +1,3 @@
-// This program uses hours, pay rate, state tax and fed tax to determine gross
-// and net pay.
-
-// PLACE YOUR NAME HERE
-
 #include <fstream>
 #include <iostream>
 #include <iomanip>
