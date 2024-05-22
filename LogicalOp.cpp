@@ -1,5 +1,4 @@
 /* I could replace the else if with just else*/
-// Austin Farias
 #include <iostream>
 using namespace std;
 int main()
