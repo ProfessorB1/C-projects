@@ -3,8 +3,6 @@
 #include <cctype>
 using namespace std;
 
-// PLACE YOUR NAME HERE
-
 int main()
 {
 	fstream inFile("proverb.txt", ios::in);
