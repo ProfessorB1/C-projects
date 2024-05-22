@@ -1,4 +1,3 @@
-//Austin Farias
 #include <iostream>
 #include <fstream>
 #include <cctype>
